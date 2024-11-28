@@ -35,6 +35,10 @@ RISK APPETITE
 RISK THRESHOLD
 > "Risk threshold is the measure of acceptable variation around an objective that reflects the risk appetite of the organization and its stakeholders. A key element of risk strategy is the establishment and monitoring of enterprise, portfolio, program, and project risk thresholds" [1]
 
+ERM (https://www.investopedia.com/terms/e/enterprise-risk-management.asp)
+> "ERM is an approach for identifying major risks that confront an organization and forecasting the significance of those risks to business processes" [1]
+
+
 Literatūra:
 1. The Standard for Risk Management in Portfolios, Programs, and Projects (PMI)
 2. Klaus Haller. Managing AI in the Enterprise. Succeeding with AI Projects and MLOps to Build Sustainable AI Organizations
