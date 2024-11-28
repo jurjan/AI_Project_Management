@@ -8,3 +8,5 @@ Nuorodos, kurios Jums bus naudingos sudarant planus, vertinant rizikas ir planuo
 * https://www.projectmanager.com/blog/resource-management-templates
 
 Knyga, kurią labai rekomenduoju: https://www.mlebook.com/wiki/doku.php (Prieinama online)
+
+Tiems, kas domisi sertifikatais - https://projectmanagementacademy.net/resources/pmbok-guide-in-project-management/
