@@ -3,6 +3,6 @@
 
 Paskaitos įrašas: https://youtu.be/CK1F6VaU9O8
 
-Paskaitos skaidrės:
+Paskaitos skaidrės: https://github.com/jurjan/AI_Project_Management/blob/main/Lecture%202024-11-28/Paskaita%203.pdf
 
 Paskaitos aprašas:
