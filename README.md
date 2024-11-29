@@ -23,5 +23,5 @@ Egzaminas: žinių patikrinimas iš DI projektų valdymo. Gausite laisvos formos
 Šiame dalyke skirta labai daug valandų savarankiškam darbui. Atsižvelgiant į tai, kada vyksta paskaitos, ir į būtinybę derinti darbą, mokslą bei asmeninį gyvenimą, jums sukurtas atskiras „Discord“ kanalas. Klausimus galite užduoti rašydami man asmeniškai arba į kanalą bet kuriuo metu.
 
 
-
+![plot](./directory_1/directory_2/.../directory_n/plot.png)
 
