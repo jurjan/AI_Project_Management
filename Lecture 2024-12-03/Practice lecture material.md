@@ -7,6 +7,7 @@ Moksliniai šaltiniai analizei:
 * https://www.sciencedirect.com/science/article/pii/S2214635024000868
 * https://www.sciencedirect.com/science/article/pii/S2468227624002266
 * https://www.sciencedirect.com/science/article/pii/S266682702400001X
+* https://www.researchgate.net/publication/349728299_Fairness_in_Credit_Scoring_Assessment_Implementation_and_Profit_Implications
 
 
 
