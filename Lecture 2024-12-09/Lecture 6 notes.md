@@ -1,4 +1,4 @@
-
+# Atsakomybė priimant DI sprendimus. Paaiškinamas AI ir aiškinamumas. Teisinis AI reguliavimas
 
 
 
