@@ -26,6 +26,24 @@ Vientisumas (angl. Integrity) -  užtikrinimas, kad informacija ir duomenys yra 
 ​
 Geriausias būdas apsisaugoti nuo MitM ir Replay atakų yra šifravimo naudojimas, siekiant apsaugoti komunikaciją. Pavyzdžiui, tinklalapio srautas gali naudoti Transport Layer Security (TLS) protokolą, kuris neleidžia pasiklausytojams stebėti tinklo srauto.
 
+Prieinamumas (angl. Availability) – užtikrinimas, kad visada yra prieiga prie tam tikros informacijos, duomenų bazės ar kitų elektroninių paslaugų.
+* Denial-of-Service Atakos (DoS)​. Įvyksta, kai piktavališkas asmuo užtvindo sistemą didžiuliu tinklo srautu. Tikslas – siųsti tiek daug užklausų serveriui, kad jis nebegalėtų atsakyti į teisėtų vartotojų užklausas.​ Norint apsisaugoti - naudoti ugniasienes, kurios blokuoja neteisėtas užklausas.​ Bendradarbiauti su interneto paslaugų teikėju, kad šios atakos būtų blokuojamos dar prieš pasiekiant jūsų tinklą.​ Detaliau: https://www.microsoft.com/en-us/security/business/security-101/what-is-a-ddos-attack
+* Elektros tiekimo sutrikimai gali įvykti tiek lokaliai, tiek regioniniu mastu dėl įvairių priežasčių:​ padidėjusi elektros paklausa gali perkrauti tinklą, gamtinės stichijos gali sutrikdyti paslaugų teikimą, kiti veiksniai. Esmė, kad jie visi trukdo naudotis sistemomis. Norint apsisaugoti nuo šio tipo sutrikimo reikia naudoti atsarginius elektros šaltinius ir rezervinius generatorius, kurie tiektų energiją sistemoms, kai nėra pagrindinio tiekimo.​
+* Aparatūros gedimai. Serverių, kietųjų diskų, tinklo įrangos gedimai, galintys sutrikdyti prieigą prie informacijos. Projektuoti sistemas taip, kad sugedus vienam komponentui, kitas galėtų perimti jo funkciją.​ Detaliau: https://www.vpnunlimited.com/help/cybersecurity/hardware-failure
+* Equipment Destruction Attack. Kartais įranga būna tiesiog sunaikinama. Tai gali būti tyčinis ar atsitiktinis fizinis pažeidimas arba didesnės nelaimės, tokios kaip gaisras ar uraganas, rezultatas.​ Nuo mažo masto sunaikinimo apsisaugoti galima naudojant perteklines sistemas.​ Norint apsisaugoti nuo didelio masto nelaimių, reikėtų turėti atsarginius duomenų centrus atokiose vietose arba naudoti debesijos infrastruktūrą.​ Detaliau: https://www.cybertraining365.com/cybertraining/Topics/Equipment_destruction_attack
+* 
+
+​
+​
+
+Paslaugų tiekimo sutrikimai​
+
+Paslaugų tiekimo sutrikimai gali kilti dėl programavimo klaidų, pagrindinės įrangos gedimų ar kitų priežasčių. Tokie sutrikimai trukdo vartotojams pasiekti sistemas ir informaciją, todėl yra prieinamumo problema.​
+
+Apsauga:​
+
+Projektuoti sistemas, kurios būtų atsparios klaidoms ir aparatinės įrangos gedimams.​
+
 
 
 
