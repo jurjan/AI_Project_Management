@@ -31,18 +31,7 @@ Prieinamumas (angl. Availability) – užtikrinimas, kad visada yra prieiga prie
 * Elektros tiekimo sutrikimai gali įvykti tiek lokaliai, tiek regioniniu mastu dėl įvairių priežasčių:​ padidėjusi elektros paklausa gali perkrauti tinklą, gamtinės stichijos gali sutrikdyti paslaugų teikimą, kiti veiksniai. Esmė, kad jie visi trukdo naudotis sistemomis. Norint apsisaugoti nuo šio tipo sutrikimo reikia naudoti atsarginius elektros šaltinius ir rezervinius generatorius, kurie tiektų energiją sistemoms, kai nėra pagrindinio tiekimo.​
 * Aparatūros gedimai. Serverių, kietųjų diskų, tinklo įrangos gedimai, galintys sutrikdyti prieigą prie informacijos. Projektuoti sistemas taip, kad sugedus vienam komponentui, kitas galėtų perimti jo funkciją.​ Detaliau: https://www.vpnunlimited.com/help/cybersecurity/hardware-failure
 * Equipment Destruction Attack. Kartais įranga būna tiesiog sunaikinama. Tai gali būti tyčinis ar atsitiktinis fizinis pažeidimas arba didesnės nelaimės, tokios kaip gaisras ar uraganas, rezultatas.​ Nuo mažo masto sunaikinimo apsisaugoti galima naudojant perteklines sistemas.​ Norint apsisaugoti nuo didelio masto nelaimių, reikėtų turėti atsarginius duomenų centrus atokiose vietose arba naudoti debesijos infrastruktūrą.​ Detaliau: https://www.cybertraining365.com/cybertraining/Topics/Equipment_destruction_attack
-* 
-
-​
-​
-
-Paslaugų tiekimo sutrikimai​
-
-Paslaugų tiekimo sutrikimai gali kilti dėl programavimo klaidų, pagrindinės įrangos gedimų ar kitų priežasčių. Tokie sutrikimai trukdo vartotojams pasiekti sistemas ir informaciją, todėl yra prieinamumo problema.​
-
-Apsauga:​
-
-Projektuoti sistemas, kurios būtų atsparios klaidoms ir aparatinės įrangos gedimams.​
+* Paslaugų tiekimo sutrikimai gali kilti dėl programavimo klaidų, pagrindinės įrangos gedimų ar kitų priežasčių. Tokie sutrikimai trukdo vartotojams pasiekti sistemas ir informaciją, todėl yra prieinamumo problema.​ Projektuoti sistemas, kurios būtų atsparios klaidoms ir aparatinės įrangos gedimams.​
 
 
 
