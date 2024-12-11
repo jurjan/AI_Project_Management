@@ -77,7 +77,7 @@ Socialinės inžinerijos atakos naudoja psichologinius triukus, siekiant manipul
     * Kirminas (angl. Worm). Kirminai plinta iš vienos sistemos į kitą be vartotojo įsikišimo. Jie ieško ir išnaudoja sistemos pažeidžiamumus, užkrėsdami sistemas be vartotojo veiksmų. Užkrėtę sistemą, kirminai ją naudoja kaip bazę, iš kurios plinta į kitas vietinio tinklo dalis arba į platesnį internetą. Kirminai gali plisti tik pažeidžiamose sistemose. Todėl geriausias būdas apsisaugoti nuo kirminų – užtikrinti, kad sistemos būtų atnaujintos naujausiais operacinių sistemų ir programų pataisų paketais.
     * Trojos arklys (angl. Trojan Horse). Jie apsimeta teisėtomis programinės įrangos dalimis, kurias vartotojas galėtų norėti atsisiųsti ir įdiegti. Kai vartotojas paleidžia programą, ji atlieka numatytą funkciją, tačiau Trojos arklys taip pat turi paslėptą kenksmingą kodą, kuris užkulisiuose vykdo nepageidaujamus veiksmus.
 
-​* Duomenų saugumo pažeidimas (angl. Data Breach). Duomenų saugumo pažeidimas yra bet koks saugumo incidentas, kurio metu neįgaliotos šalys gauna prieigą prie jautrios ar konfidencialios informacijos. Detaliau: https://www.ibm.com/topics/data-breach
+* Duomenų saugumo pažeidimas (angl. Data Breach). Duomenų saugumo pažeidimas yra bet koks saugumo incidentas, kurio metu neįgaliotos šalys gauna prieigą prie jautrios ar konfidencialios informacijos. Detaliau: https://www.ibm.com/topics/data-breach
 * Nulinės dienos pažeidžiamumas (angl. zero-day vulnerability), Nulinės dienos ataka (angl. zero-day attack) reiškia pažeidžiamumą, apie kurį produkto tiekėjas dar nežino, todėl dar nėra sukurta pataisa šiai problemai išspręsti. Detaliau: https://www.ibm.com/topics/zero-day
 * 
 ​
