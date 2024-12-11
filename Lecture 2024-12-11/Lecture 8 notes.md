@@ -1,3 +1,4 @@
+<div style="text-align: right;">
 # Basics of cybersecurity principles and concepts. Threat vectors and types of cyberattacks. Security policies and best practices
 
 Medžiaga parengta remiantis:
@@ -45,4 +46,4 @@ Vienas svarbiausių dalykų, kuriuos atliekate, yra užtikrinti, kad tik įgalio
 * Atakos vektorius yra metodas, naudojamas neteisėtai prieigai prie tinklo ar kompiuterinės sistemos gauti.​
 * Atakos paviršius – tai visų atakos vektorių, kuriuos užpuolikas gali panaudoti manipuliuodamas tinklu ar kompiuterine sistema arba išgaudamas duomenis, visuma.​
 * Grėsmės vektorius gali būti vartojamas kaip sinonimas su „atakos vektoriumi“ ir paprastai apibūdina galimus būdus, kuriais įsilaužėlis gali gauti prieigą prie duomenų ar kitos konfidencialios informacijos.​ Detaliau: https://www.upguard.com/blog/attack-vector
-
+</div> 
