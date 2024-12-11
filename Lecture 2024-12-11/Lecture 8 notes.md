@@ -38,6 +38,7 @@ Vienas svarbiausių dalykų, kuriuos atliekate, yra užtikrinti, kad tik įgalio
 * Įrodymai atsiranda antrajame proceso etape – autentifikacijoje (angl. Authentification). Autentifikacijos etape asmuo įrodo savo tapatybę taip, kad tai patenkintų prieigos kontrolės sistemos reikalavimus. Pavyzdžiui, biuro pastate apsaugos darbuotojas greičiausiai norėtų pamatyti asmens vairuotojo pažymėjimą, kad patvirtintų to asmens tapatybę​.
 * Tačiau vien tapatybės įrodymo nepakanka, kad gautumėte prieigą prie sistemos. Prieigos kontrolės sistema taip pat turi būti įsitikinusi, kad turite teisę pasiekti sistemą. Tai yra trečiasis prieigos kontrolės proceso etapas – autorizacija (angl. Authorization). 
 * Be identifikacijos, autentifikacijos ir autorizacijos, prieigos kontrolės sistemos taip pat turi apskaitos (angl. Accounting) funkcionalumą, leidžiantį administratoriams stebėti vartotojų veiklą ir ją atkurti iš žurnalų. Biuro pastato pavyzdyje apsaugos darbuotojas gali užrašyti asmens apsilankymą pastate lankytojų registracijos žurnale.​ Detaliau: https://www.proof.com/blog/what-is-identification-authentication-and-authorization
+
 ​
 **Attack and threat vectors​**
 
