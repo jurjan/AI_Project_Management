@@ -61,13 +61,13 @@ Socialinės inžinerijos atakos naudoja psichologinius triukus, siekiant manipul
 
 * Phishing. Socialinės inžinerijos atakų tipas, kai taikinys yra kontaktuojamas el. paštu, telefonu ar trumpąja žinute asmens, apsimetančio teisėtu kolega ar institucija, siekiant apgauti jį ir priversti atskleisti jautrią informaciją, prisijungimo duomenis arba asmeninę identifikuojamą informaciją (PII). Netikros žinutės gali nukreipti vartotojus į kenksmingus tinklalapius, kuriuose slypi virusai ar kenkėjiška programinė įranga (angl. Malware).​ Šių atakų yra daug ir įvairių: https://www.upguard.com/blog/types-of-phishing-attacks
 
-&nbsp;&nbsp;Išsamus straipsnis kaip apsisagoti nuo tokio tipo atakų: https://www.sciencedirect.com/science/article/pii/S0167404823002973
+    Išsamus straipsnis kaip apsisagoti nuo tokio tipo atakų: https://www.sciencedirect.com/science/article/pii/S0167404823002973
 
-&nbsp;&nbsp;Kaip tai veikia DI Projektus?
-&nbsp;&nbsp;* Duomenų nutekėjimas: gali atskleisti mokymosi duomenų rinkinius, kuriuose gali būti jautri arba patentuota informacija.
-&nbsp;&nbsp;* Prieiga prie sistemos: pavogti prisijungimo duomenys gali suteikti neteisėtą prieigą prie DI infrastruktūros, tokios kaip debesijos platformos ar modelių diegimo aplinkos.​
-&nbsp;&nbsp;* Modelių vagystė: gali sukelti AI modelių, intelektinės nuosavybės ar tyrimų duomenų vagystę.
-&nbsp;&nbsp;* Manipuliacija rezultatais: kompromituotos sistemos gali lemti pakeistus arba nepatikimus DI modelių rezultatus
+    Kaip tai veikia DI Projektus?
+    * Duomenų nutekėjimas: gali atskleisti mokymosi duomenų rinkinius, kuriuose gali būti jautri arba patentuota informacija.
+    * Prieiga prie sistemos: pavogti prisijungimo duomenys gali suteikti neteisėtą prieigą prie DI infrastruktūros, tokios kaip debesijos platformos ar modelių diegimo aplinkos.​
+    * Modelių vagystė: gali sukelti AI modelių, intelektinės nuosavybės ar tyrimų duomenų vagystę.
+    * Manipuliacija rezultatais: kompromituotos sistemos gali lemti pakeistus arba nepatikimus DI modelių rezultatus
 
 ​
 
