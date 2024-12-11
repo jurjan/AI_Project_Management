@@ -4,7 +4,7 @@ Medžiaga parengta remiantis:
 
 * Mike Chapple. CC Certified in Cybersecurity Study Guide (Sybex Study Guide).John Wiley & Sons, 2023, 256 pages
 * Charles J. Brooks, Christopher Grow, Philip A. Craig, Jr., Donald Shor. Cybersecurity Essentials. John Wiley & Sons, 2018. 784 pages
-* Kibernetinis saugumas ir verslas. Ką turėtų žinoti kiekvienas įmonės vadovas. NKSC prie KAM, 2020. ()
+* Kibernetinis saugumas ir verslas. Ką turėtų žinoti kiekvienas įmonės vadovas. NKSC prie KAM, 2020 (https://www.nksc.lt/doc/Kibernetinio_saugumo_vadovas_verslui_2020.pdf)
 * Claudio Novelli, Federico Casolari, Philipp Hacker, Giorgio Spedicato, Luciano Floridi, Generative AI in EU law: Liability, privacy, intellectual property, and cybersecurity,
 Computer Law & Security Review, Volume 55, 2024, 106066, ISSN 0267-3649, https://doi.org/10.1016/j.clsr.2024.106066.
 * Iqbal H. Sarker, Helge Janicke, Ahmad Mohsin, Asif Gill, Leandros Maglaras, Explainable AI for cybersecurity automation, intelligence and trustworthiness in digital twin: Methods, taxonomy, challenges and prospects,
