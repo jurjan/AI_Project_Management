@@ -58,6 +58,7 @@ Socialinės inžinerijos atakos naudoja psichologinius triukus, siekiant manipul
 * Familiarumas ir simpatija (angl. Familiarity and Liking)​. Paskutinė taktika yra paprasta: familiarumas ir simpatija. Žmonės yra linkę sakyti „taip“ tam, kuris jiems patinka. Socialinės inžinerijos specialistai naudoja pataikavimą, melagingus komplimentus ir suklastotus santykius, kad pelnytų taikinio palankumą ir paveiktų jų veiksmus. Geriausias būdas apsaugoti organizaciją nuo socialinės inžinerijos atakų – vartotojų švietimas. Visi organizacijos nariai turi suprasti, kad socialinės inžinerijos specialistai naudoja šias taktikas, siekdami gauti jautrią informaciją, ir būti budrūs dėl pašaliečių, bandančių naudoti šiuos metodus.​
 
 **Kibernetinių atakų tipai**
+<p>
 * Phishing. Socialinės inžinerijos atakų tipas, kai taikinys yra kontaktuojamas el. paštu, telefonu ar trumpąja žinute asmens, apsimetančio teisėtu kolega ar institucija, siekiant apgauti jį ir priversti atskleisti jautrią informaciją, prisijungimo duomenis arba asmeninę identifikuojamą informaciją (PII). Netikros žinutės gali nukreipti vartotojus į kenksmingus tinklalapius, kuriuose slypi virusai ar kenkėjiška programinė įranga (angl. Malware).​ Šių atakų yra daug ir įvairių: https://www.upguard.com/blog/types-of-phishing-attacks
 
 Išsamus straipsnis kaip apsisagoti nuo tokio tipo atakų: https://www.sciencedirect.com/science/article/pii/S0167404823002973
@@ -67,6 +68,7 @@ Kaip tai veikia DI Projektus?
 * Prieiga prie sistemos: pavogti prisijungimo duomenys gali suteikti neteisėtą prieigą prie DI infrastruktūros, tokios kaip debesijos platformos ar modelių diegimo aplinkos.​
 * Modelių vagystė: gali sukelti AI modelių, intelektinės nuosavybės ar tyrimų duomenų vagystę.
 * Manipuliacija rezultatais: kompromituotos sistemos gali lemti pakeistus arba nepatikimus DI modelių rezultatus
+</p>
 
 ​
 
