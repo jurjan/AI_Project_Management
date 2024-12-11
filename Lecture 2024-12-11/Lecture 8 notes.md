@@ -9,6 +9,7 @@ Medžiaga parengta remiantis:
 Computer Law & Security Review, Volume 55, 2024, 106066, ISSN 0267-3649, https://doi.org/10.1016/j.clsr.2024.106066.
 * Iqbal H. Sarker, Helge Janicke, Ahmad Mohsin, Asif Gill, Leandros Maglaras, Explainable AI for cybersecurity automation, intelligence and trustworthiness in digital twin: Methods, taxonomy, challenges and prospects,
 ICT Express, Volume 10, Issue 4, 2024, Pages 935-958, ISSN 2405-9595, https://doi.org/10.1016/j.icte.2024.05.007.
+* https://www.researchgate.net/publication/380359955_Enhancing_Cybersecurity_Resilience_at_the_DOST-CAR_Investigating_the_Human_Factors_Leading_to_Social_Engineering_Attacks
 
 
 ### Paskaitos aprašas:
@@ -40,10 +41,39 @@ Vienas svarbiausių dalykų, kuriuos atliekate, yra užtikrinti, kad tik įgalio
 * Be identifikacijos, autentifikacijos ir autorizacijos, prieigos kontrolės sistemos taip pat turi apskaitos (angl. Accounting) funkcionalumą, leidžiantį administratoriams stebėti vartotojų veiklą ir ją atkurti iš žurnalų. Biuro pastato pavyzdyje apsaugos darbuotojas gali užrašyti asmens apsilankymą pastate lankytojų registracijos žurnale.​ Detaliau: https://www.proof.com/blog/what-is-identification-authentication-and-authorization
 
 ​
-**Attack and threat vectors​**
+**Atakų ir grėsmių vektoriai**
 
 * Atakos vektorius yra metodas, naudojamas neteisėtai prieigai prie tinklo ar kompiuterinės sistemos gauti.​
 * Atakos paviršius – tai visų atakos vektorių, kuriuos užpuolikas gali panaudoti manipuliuodamas tinklu ar kompiuterine sistema arba išgaudamas duomenis, visuma.​
 * Grėsmės vektorius gali būti vartojamas kaip sinonimas su „atakos vektoriumi“ ir paprastai apibūdina galimus būdus, kuriais įsilaužėlis gali gauti prieigą prie duomenų ar kitos konfidencialios informacijos.​ Detaliau: https://www.upguard.com/blog/attack-vector
 
 Kibernetiniai nusikaltėliai išnaudoja atakos vektorius, kad pradėtų kibernetines atakas ir įterptų kenksmingus duomenų paketus (angl. payloads).​ Atakos vektoriai gali būti skaitmeniniai, pavyzdžiui, programinės įrangos pažeidžiamumas, arba žmogiškasis - darbuotojas, kurį galima paveikti, kad jis atskleistų privačius prieigos duomenis.​ Trečiųjų šalių tiekėjai yra kritiniai atakos vektoriai, nes jie turi prieigą prie privačių duomenų, priklausančių kiekvienam verslui, su kuriuo jie bendradarbiauja. Dėl to, kai tiekėjas yra pažeidžiamas, dažnai pažeidžiami ir visi jo klientai.​ Toks kibernetinis išpuolis vadinamas tiekimo grandinės ataka (angl. supply chain attack), ir dėl savo efektyvumo jis greitai tampa viena mėgstamiausių kibernetinių nusikaltėlių strategijų. Detaliau: https://www.fortinet.com/resources/cyberglossary/supply-chain-attacks
+
+Socialinės inžinerijos atakos naudoja psichologinius triukus, siekiant manipuliuoti žmonėmis, kad šie atliktų tam tikrą veiksmą arba atskleistų jautrią informaciją, kuri pažeidžia organizacijos saugumą.​ Pavyzdžiui, užpuolikas, apsimetęs pagalbos tarnybos techniku, gali naudoti socialinę inžineriją, kad apgautų vartotoją ir priverstų jį atskleisti savo slaptažodį telefonu.​ Tai yra vienas sunkiausių apsisaugoti atakos tipų.​
+* Autoritetas ir pasitikėjimas​ (angl. Authority and trust​). Nemažai psichologinių eksperimentų parodė, kad žmonės yra linkę klausyti ir paklusti asmeniui, kuris sugeba perteikti autoriteto įvaizdį. ​(Galite paskaityti Kevin Mitnick knygą The Art of Intrusion., labai įdomi, rekomenduoju)
+* Įbauginimas​ (angl. Intimidation). Antra priežastis, kodėl socialinė inžinerija veikia, yra įbauginimas. Tai tiesiog prievartinis spaudimas, kai žmonės bauginami ir grasinama, kad jiems arba jų organizacijai nutiks kažkas blogo, jei jie nepadarys to, ko iš jų reikalaujama.​
+* Sutarimas ir socialinis įrodymas​ (angl. Consensus and Social Proof). Trečioji socialinės inžinerijos taktika yra sutarimas ir socialinis įrodymas. Kai žmonės nežino, kaip elgtis tam tikroje situacijoje, jie dažnai stebi kitų elgesį ir seka jų pavyzdžiu. Tai vadinama bandos mentalitetu.​ Pavyzdžiui, tai nutinka, kai žmogus gatvėje užpuolamas, tačiau niekas neiškviečia pagalbos, nes kiekvienas stebi kitų reakciją ir laukia, kol kažkas imsis veiksmų.​
+* Trūkumas (angl. Scarcity)​. Ketvirtoji taktika yra trūkumas: žmonių įtikinimas, kad jei jie neveiks greitai, praras galimybę arba kažką svarbaus. Socialinės inžinerijos specialistas gali panaudoti trūkumo taktiką, kad apgautų ką nors, priversdamas juos leisti įdiegti įrangą biure. Pavyzdžiui, užpuolikas gali pasirodyti su Wi-Fi maršrutizatoriumi ir teigti, kad jie diegia naujausią Wi-Fi technologiją kaimyniniuose biuruose ir jiems liko vienas papildomas maršrutizatorius. Jei biuro darbuotojai pageidauja, jie gali jį įdiegti čia.​ Jei darbuotojai sutinka, jie mano, kad gauna ankstyvą prieigą prie naujos technologijos, tuo tarpu įsilaužėlis įsitvirtina tinkle ir gauna prieigą.​
+* Skuba (angl. Urgency)​. Naudodamas šią taktiką, įsilaužėlis sukuria situaciją, kurioje žmonės jaučia spaudimą veikti greitai, nes laikas baigiasi.​
+* Familiarumas ir simpatija (angl. Familiarity and Liking)​. Paskutinė taktika yra paprasta: familiarumas ir simpatija. Žmonės yra linkę sakyti „taip“ tam, kuris jiems patinka. Socialinės inžinerijos specialistai naudoja pataikavimą, melagingus komplimentus ir suklastotus santykius, kad pelnytų taikinio palankumą ir paveiktų jų veiksmus. Geriausias būdas apsaugoti organizaciją nuo socialinės inžinerijos atakų – vartotojų švietimas. Visi organizacijos nariai turi suprasti, kad socialinės inžinerijos specialistai naudoja šias taktikas, siekdami gauti jautrią informaciją, ir būti budrūs dėl pašaliečių, bandančių naudoti šiuos metodus.​
+
+**Kibernetinių atakų tipai**
+* Phishing. Socialinės inžinerijos atakų tipas, kai taikinys yra kontaktuojamas el. paštu, telefonu ar trumpąja žinute asmens, apsimetančio teisėtu kolega ar institucija, siekiant apgauti jį ir priversti atskleisti jautrią informaciją, prisijungimo duomenis arba asmeninę identifikuojamą informaciją (PII). Netikros žinutės gali nukreipti vartotojus į kenksmingus tinklalapius, kuriuose slypi virusai ar kenkėjiška programinė įranga (angl. Malware).​ Šių atakų yra daug ir įvairių: https://www.upguard.com/blog/types-of-phishing-attacks
+
+Išsamus straipsnis kaip apsisagoti nuo tokio tipo atakų: https://www.sciencedirect.com/science/article/pii/S0167404823002973
+
+Kaip tai veikia DI Projektus?
+* Duomenų nutekėjimas: gali atskleisti mokymosi duomenų rinkinius, kuriuose gali būti jautri arba patentuota informacija.
+* Prieiga prie sistemos: pavogti prisijungimo duomenys gali suteikti neteisėtą prieigą prie DI infrastruktūros, tokios kaip debesijos platformos ar modelių diegimo aplinkos.​
+* Modelių vagystė: gali sukelti AI modelių, intelektinės nuosavybės ar tyrimų duomenų vagystę.
+* Manipuliacija rezultatais: kompromituotos sistemos gali lemti pakeistus arba nepatikimus DI modelių rezultatus
+
+​
+
+​
+
+​
+
+​
+
+​
