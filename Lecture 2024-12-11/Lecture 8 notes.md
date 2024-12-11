@@ -4,6 +4,7 @@ Medžiaga parengta remiantis:
 
 * Mike Chapple. CC Certified in Cybersecurity Study Guide (Sybex Study Guide).John Wiley & Sons, 2023, 256 pages
 * Charles J. Brooks, Christopher Grow, Philip A. Craig, Jr., Donald Shor. Cybersecurity Essentials. John Wiley & Sons, 2018. 784 pages
+* Kibernetinis saugumas ir verslas. Ką turėtų žinoti kiekvienas įmonės vadovas. NKSC prie KAM, 2020. ()
 * Claudio Novelli, Federico Casolari, Philipp Hacker, Giorgio Spedicato, Luciano Floridi, Generative AI in EU law: Liability, privacy, intellectual property, and cybersecurity,
 Computer Law & Security Review, Volume 55, 2024, 106066, ISSN 0267-3649, https://doi.org/10.1016/j.clsr.2024.106066.
 * Iqbal H. Sarker, Helge Janicke, Ahmad Mohsin, Asif Gill, Leandros Maglaras, Explainable AI for cybersecurity automation, intelligence and trustworthiness in digital twin: Methods, taxonomy, challenges and prospects,
@@ -17,6 +18,15 @@ Konfidencialumas (angl. confidentiality) užtikrina, kad tik įgalioti asmenys t
 * Šiukšlių naršymo (angl. dumpster diving) atakos taip pat siekia rasti jautrią informaciją, tačiau užpuolikas nevaikšto po biurą. Vietoje to, jie peržiūri šiukšles, ieškodamas svarbių dokumentų, kuriuos darbuotojas galėjo išmesti į šiukšliadėžę.​
 * Pasiklausymo atakos (angl. Eavesdroping) gali būti tiek fizinės, tiek elektroninės. Fizinės pasiklausymo atakos metu užpuolikas tiesiog užima poziciją, kurioje gali girdėti pokalbius (valgykloje, koridoriuje ir pan.) ir klausosi jautrios informacijos. Elektroninės pasiklausymo atakos dar vadinamos „prisijungimu prie linijos“ (angl. wiretapping). Jos vyksta, kai užpuolikas įsilaužia į tinklą ir stebi duomenų srautą, kuris perduodamas elektroniniu būdu biure. Geriausias būdas apsisaugoti nuo elektroninių pasiklausymo atakų – naudoti šifravimą.
 * Paskutinis konfidencialumo pažeidimo tipas yra socialinės inžinerijos atakos (angl. social engineering). Šių atakų metu užpuolikas naudoja psichologinius triukus, kad įtikintų darbuotoją perduoti jautrią informaciją ar suteikti prieigą prie vidinių sistemų. Užpuolikai gali apsimesti vykdantys skubią užduotį aukšto rango vadovo pavedimu, IT techniku arba išsiųsti apgaulingą el. laišką (phishing).​ Apsisaugoti nuo socialinės inžinerijos atakų yra sudėtinga. Jūsų sistema gali būti geriausiai apsaugota žvelgiant iš technologinės pusės, tačiau jei silpnoji grandis yra žmogus - jos nepadės. Geriausia gynyba prieš tokio tipo atakas – darbuotojų švietimas, mokant juos atpažinti socialinės inžinerijos pavojus, ir jų įgalinimas imtis veiksmų, kai įtariama, kad vykdoma ataka.
+
+Vientisumas (angl. Integrity) -  užtikrinimas, kad informacija ir duomenys yra teisingi, nėra atsitiktinai ar neteisėtai pakeisti ir sunaikinti. Neteisėtas informacijos modifikavimas įvyksta, kai užpuolikas gauna prieigą prie sistemos ir atlieka pakeitimus, kurie pažeidžia saugumo politiką. Tai gali būti išorinė tiek išorinė, tiek vidinė ataka. Geriausias būdas apsisaugoti nuo tokio tipo vientisumo pažeidimų – laikytis mažiausių privilegijų principo (The principle of least privilege (PoLP)). Organizacijos turėtų kruopščiai apsvarstyti, kokias teises kiekvienam darbuotojui būtina turėti atliekant savo darbą, ir apriboti darbuotojų prieigą iki mažiausio įmanomo teisių rinkinio.​
+* Apsimetinėjimo (angl. Impersonation) atakos. Šių atakų metu užpuolikas apsimeta kitu asmeniu, nei yra iš tikrųjų. Jie gali apsimesti vadovu, vadovybės nariu ar IT specialistu, kad įtikintų ką nors pakeisti duomenis sistemoje. Tai yra socialinės inžinerijos atakų forma. Detaliau: https://www.upguard.com/blog/impersonation-attack
+* Tarpininko atakos (Man-in-the-Middle, MitM)​. Kartais Impersonation atakos būna elektroninės. Tarpininko atakos metu užpuolikas perima tinklo srautą, kai vartotojas jungiasi prie sistemos, ir apsimeta ta sistema. Užpuolikas tampa tarpininku tarp vartotojo ir sistemos, perduodamas informaciją tarp jų ir stebėdamas viską, kas vyksta. Šios atakos metu užpuolikas gali pavogti vartotojo slaptažodį ir vėliau pats prisijungti prie sistemos.​ Detaliau: https://www.ibm.com/think/topics/man-in-the-middle
+* Replay Attacks. Šios atakos metu užpuolikas nesikiša į komunikaciją, tačiau randa būdą stebėti, kaip teisėtas vartotojas jungiasi prie sistemos. Jis užfiksuoja informaciją, naudojamą prisijungti, ir vėliau ją pakartoja tinkle, kad pats galėtų gauti prieigą.​ Detaliau: https://chain.link/education-hub/replay-attack
+​
+Geriausias būdas apsisaugoti nuo MitM ir Replay atakų yra šifravimo naudojimas, siekiant apsaugoti komunikaciją. Pavyzdžiui, tinklalapio srautas gali naudoti Transport Layer Security (TLS) protokolą, kuris neleidžia pasiklausytojams stebėti tinklo srauto.
+
+
 
 
 
