@@ -69,8 +69,10 @@ Socialinės inžinerijos atakos naudoja psichologinius triukus, siekiant manipul
     * Modelių vagystė: gali sukelti AI modelių, intelektinės nuosavybės ar tyrimų duomenų vagystę.
     * Manipuliacija rezultatais: kompromituotos sistemos gali lemti pakeistus arba nepatikimus DI modelių rezultatus
 
-​
+    Pavyzdžiai DI kontekste:​ Debesijos paslaugų teikėjo apsimetimas - Užpuolikas siunčia el. laišką, apsimesdamas debesijos paslaugų teikėju (pvz., AWS, Google Cloud), ir prašo prisijungimo duomenų, kad gautų prieigą prie DI kūrimo platformos.​ Tiksliniai išpuoliai prieš DI specialistus - Phishing kampanijos, nukreiptos į duomenų mokslininkus ar kūrėjus, siekiant gauti prieigą prie projektų saugyklų ar API.
 
+​* Kenksminga programinė įranga (angl. malware, trumpinys iš malicious software). Viena reikšmingiausių grėsmių kompiuterių saugumui. Kenksmingos programos užkrečia kompiuterines sistemas ir atlieka tam tikrus žalingus veiksmus: gali pavogti informaciją, sugadinti duomenis arba kitaip sutrikdyti įprastą sistemos veikimą. Detaliau: https://www.cisco.com/site/us/en/learn/topics/security/what-is-malware.html
+    Kiekviena kenksminga programinė įranga turės du komponentus: plitimo mechanizmą (angl. propagation mechanism) ir kenksmingąjį kodą (payload). Plitimo mechanizmas yra būdas, kaip kenksminga programa plinta iš vienos sistemos į kitą. Plitimo mechanizmai skiriasi priklausomai nuo kenksmingos programinės įrangos tipo. Kenksmingasis kodas yra žalingas veiksmas, kurį atlieka kenksminga programinė įranga. Bet kuris kenksmingos programinės įrangos objektas gali turėti bet kokio tipo kenksmingąjį kodą.
 ​
 
 ​
