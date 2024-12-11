@@ -39,7 +39,9 @@ Vienas svarbiausių dalykų, kuriuos atliekate, yra užtikrinti, kad tik įgalio
 * Tačiau vien tapatybės įrodymo nepakanka, kad gautumėte prieigą prie sistemos. Prieigos kontrolės sistema taip pat turi būti įsitikinusi, kad turite teisę pasiekti sistemą. Tai yra trečiasis prieigos kontrolės proceso etapas – autorizacija (angl. Authorization). 
 * Be identifikacijos, autentifikacijos ir autorizacijos, prieigos kontrolės sistemos taip pat turi apskaitos (angl. Accounting) funkcionalumą, leidžiantį administratoriams stebėti vartotojų veiklą ir ją atkurti iš žurnalų. Biuro pastato pavyzdyje apsaugos darbuotojas gali užrašyti asmens apsilankymą pastate lankytojų registracijos žurnale.​ Detaliau: https://www.proof.com/blog/what-is-identification-authentication-and-authorization
 ​
+**Attack and threat vectors​**
 
-
-
+* Atakos vektorius yra metodas, naudojamas neteisėtai prieigai prie tinklo ar kompiuterinės sistemos gauti.​
+* Atakos paviršius – tai visų atakos vektorių, kuriuos užpuolikas gali panaudoti manipuliuodamas tinklu ar kompiuterine sistema arba išgaudamas duomenis, visuma.​
+* Grėsmės vektorius gali būti vartojamas kaip sinonimas su „atakos vektoriumi“ ir paprastai apibūdina galimus būdus, kuriais įsilaužėlis gali gauti prieigą prie duomenų ar kitos konfidencialios informacijos.​ Detaliau: https://www.upguard.com/blog/attack-vector
 
