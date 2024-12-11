@@ -33,6 +33,12 @@ Prieinamumas (angl. Availability) – užtikrinimas, kad visada yra prieiga prie
 * Equipment Destruction Attack. Kartais įranga būna tiesiog sunaikinama. Tai gali būti tyčinis ar atsitiktinis fizinis pažeidimas arba didesnės nelaimės, tokios kaip gaisras ar uraganas, rezultatas.​ Nuo mažo masto sunaikinimo apsisaugoti galima naudojant perteklines sistemas.​ Norint apsisaugoti nuo didelio masto nelaimių, reikėtų turėti atsarginius duomenų centrus atokiose vietose arba naudoti debesijos infrastruktūrą.​ Detaliau: https://www.cybertraining365.com/cybertraining/Topics/Equipment_destruction_attack
 * Paslaugų tiekimo sutrikimai gali kilti dėl programavimo klaidų, pagrindinės įrangos gedimų ar kitų priežasčių. Tokie sutrikimai trukdo vartotojams pasiekti sistemas ir informaciją, todėl yra prieinamumo problema.​ Projektuoti sistemas, kurios būtų atsparios klaidoms ir aparatinės įrangos gedimams.​
 
+Vienas svarbiausių dalykų, kuriuos atliekate, yra užtikrinti, kad tik įgalioti asmenys gautų prieigą prie jūsų saugomos informacijos, sistemų ir tinklų. Tam naudojate prieigos kontrolės mechanizmus.​
+* Identifikacija (angl. Identification). Asmuo, bandantis gauti prieigą, šiame etape nepateikia jokio įrodymo; jis tiesiog pateikia teiginį. Svarbu prisiminti, kad identifikacijos etapas yra tik pareiškimas, ir vartotojas tikrai gali pateikti klaidingą teiginį.​
+* Įrodymai atsiranda antrajame proceso etape – autentifikacijoje (angl. Authentification). Autentifikacijos etape asmuo įrodo savo tapatybę taip, kad tai patenkintų prieigos kontrolės sistemos reikalavimus. Pavyzdžiui, biuro pastate apsaugos darbuotojas greičiausiai norėtų pamatyti asmens vairuotojo pažymėjimą, kad patvirtintų to asmens tapatybę​.
+* Tačiau vien tapatybės įrodymo nepakanka, kad gautumėte prieigą prie sistemos. Prieigos kontrolės sistema taip pat turi būti įsitikinusi, kad turite teisę pasiekti sistemą. Tai yra trečiasis prieigos kontrolės proceso etapas – autorizacija (angl. Authorization). 
+* Be identifikacijos, autentifikacijos ir autorizacijos, prieigos kontrolės sistemos taip pat turi apskaitos (angl. Accounting) funkcionalumą, leidžiantį administratoriams stebėti vartotojų veiklą ir ją atkurti iš žurnalų. Biuro pastato pavyzdyje apsaugos darbuotojas gali užrašyti asmens apsilankymą pastate lankytojų registracijos žurnale.​ Detaliau: https://www.proof.com/blog/what-is-identification-authentication-and-authorization
+​
 
 
 
