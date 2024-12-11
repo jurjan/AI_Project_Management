@@ -79,7 +79,7 @@ Socialinės inžinerijos atakos naudoja psichologinius triukus, siekiant manipul
 
 * Duomenų saugumo pažeidimas (angl. Data Breach). Duomenų saugumo pažeidimas yra bet koks saugumo incidentas, kurio metu neįgaliotos šalys gauna prieigą prie jautrios ar konfidencialios informacijos. Detaliau: https://www.ibm.com/topics/data-breach
 * Nulinės dienos pažeidžiamumas (angl. zero-day vulnerability), Nulinės dienos ataka (angl. zero-day attack) reiškia pažeidžiamumą, apie kurį produkto tiekėjas dar nežino, todėl dar nėra sukurta pataisa šiai problemai išspręsti. Detaliau: https://www.ibm.com/topics/zero-day
-* 
+* Adversarial AI attacks 
 ​
 
 ​
