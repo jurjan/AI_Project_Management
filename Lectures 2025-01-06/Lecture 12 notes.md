@@ -1,4 +1,4 @@
-#
+# Privacy-Preserving AI: Privacy-preserving machine learning techniques. Federated learning and differential privacy
 
 Medžiaga paremta remiantis:
 
