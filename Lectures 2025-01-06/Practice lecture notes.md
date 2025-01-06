@@ -20,7 +20,7 @@
   * Tools: Featuretools, scikit-learn, custom scripts
   * Documentation Best Practices: Documenting feature definitions, rationale for transformations, tools/scripts used
 * Feature Selection
-  * Pagalba: https://machinelearningmastery.com/feature-selection-with-real-and-categorical-data/
+  * Pagalba: https://machinelearningmastery.com/feature-selection-with-real-and-categorical-data/, https://www.featureform.com/post/feature-engineering-guide
   * Methods:
     * Filter methods (Correlation-based Selection, Chi-Square Test, ANOVA F-test, Mutual Information, Variance Threshold)
     * Wrapper methods (Recursive Feature Elimination (RFE), Forward Selection, Backward Elimination, Stepwise Selection)
