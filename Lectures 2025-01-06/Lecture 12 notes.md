@@ -8,7 +8,9 @@ Medžiaga paremta remiantis:
 * https://arxiv.org/abs/2102.04704
 * Klaus Haller. Managing AI in the Enterprise. Succeeding with AI Projects and MLOps to Build Sustainable AI Organizations
 
-## 
+## Federated learning related material:
+
+* https://www.researchgate.net/publication/347178320_Threats_to_Federated_Learning
 
 
 ## Trumpas paskaitos aprašas:
