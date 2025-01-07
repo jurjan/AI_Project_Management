@@ -12,6 +12,8 @@ Medžiaga paremta remiantis:
 
 * https://www.researchgate.net/publication/347178320_Threats_to_Federated_Learning
 
+## LDP related material:
+* https://onlinelibrary.wiley.com/doi/10.1155/2020/8829523
 
 ## Trumpas paskaitos aprašas:
 
