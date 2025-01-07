@@ -17,6 +17,7 @@ Medžiaga paremta remiantis:
 * https://research.google/blog/making-ml-models-differentially-private-best-practices-and-open-challenges/
 * https://diffprivlib.readthedocs.io/en/latest/modules/mechanisms.html
 * https://dl.acm.org/doi/10.1145/2857705.2857708
+* https://rbcborealis.com/research-blogs/tutorial-12-differential-privacy-i-introduction/
 
 ## Trumpas paskaitos aprašas:
 
