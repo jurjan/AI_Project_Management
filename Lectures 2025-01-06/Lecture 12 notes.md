@@ -15,6 +15,7 @@ Medžiaga paremta remiantis:
 ## DP/LDP related material:
 * https://onlinelibrary.wiley.com/doi/10.1155/2020/8829523
 * https://research.google/blog/making-ml-models-differentially-private-best-practices-and-open-challenges/
+* https://diffprivlib.readthedocs.io/en/latest/modules/mechanisms.html
 
 ## Trumpas paskaitos aprašas:
 
