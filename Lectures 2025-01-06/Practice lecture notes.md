@@ -31,3 +31,6 @@
     * Hybrid Methods (Genetic Algorithms, Simulated Annealing)
   * Evaluation Metrics: Performance with and without certain features (cross-validation, model accuracy)
   * Documentation Best Practices: Tracking selected features, feature importance, rationale for including/excluding features
+
+
+* https://www.altexsoft.com/blog/data-collection-machine-learning/
