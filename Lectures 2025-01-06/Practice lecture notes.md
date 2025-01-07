@@ -6,6 +6,7 @@
   * Įrankiai ir technikos / Tools & Techniques: Data scraping, database querying, data ingestion from files (CSV, JSON, etc.)
   * Dokumentacija / Documentation Best Practices: Version control for datasets, data collection methodologies, metadata
   * Iššūkiai / Challenges: Missing data, data consistency, data quality
+  * https://www.altexsoft.com/blog/data-collection-machine-learning/
 
 * Duomenų paruošimas / Data Preparation
   * Duomenų paruošimas / Data Cleaning: Handling missing values, removing duplicates, dealing with outliers
@@ -31,6 +32,3 @@
     * Hybrid Methods (Genetic Algorithms, Simulated Annealing)
   * Evaluation Metrics: Performance with and without certain features (cross-validation, model accuracy)
   * Documentation Best Practices: Tracking selected features, feature importance, rationale for including/excluding features
-
-
-* https://www.altexsoft.com/blog/data-collection-machine-learning/
