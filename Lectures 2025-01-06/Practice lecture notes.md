@@ -20,6 +20,7 @@
   * Dimensionality Reduction: Principal Component Analysis (PCA), t-SNE for feature visualization
   * Tools: Featuretools, scikit-learn, custom scripts
   * Documentation Best Practices: Documenting feature definitions, rationale for transformations, tools/scripts used
+  * https://www.kaggle.com/code/kashnitsky/topic-6-feature-engineering-and-feature-selection
 * Feature Selection
   * Pagalba: https://machinelearningmastery.com/feature-selection-with-real-and-categorical-data/, https://www.featureform.com/post/feature-engineering-guide
   * Methods:
