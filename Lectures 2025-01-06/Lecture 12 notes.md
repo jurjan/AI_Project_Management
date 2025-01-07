@@ -12,8 +12,9 @@ Medžiaga paremta remiantis:
 
 * https://www.researchgate.net/publication/347178320_Threats_to_Federated_Learning
 
-## LDP related material:
+## DP/LDP related material:
 * https://onlinelibrary.wiley.com/doi/10.1155/2020/8829523
+* https://research.google/blog/making-ml-models-differentially-private-best-practices-and-open-challenges/
 
 ## Trumpas paskaitos aprašas:
 
