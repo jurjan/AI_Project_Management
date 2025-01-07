@@ -7,6 +7,7 @@
   * Dokumentacija / Documentation Best Practices: Version control for datasets, data collection methodologies, metadata
   * Iššūkiai / Challenges: Missing data, data consistency, data quality
   * https://www.altexsoft.com/blog/data-collection-machine-learning/
+  * https://arxiv.org/abs/1803.09010
 
 * Duomenų paruošimas / Data Preparation
   * Duomenų paruošimas / Data Cleaning: Handling missing values, removing duplicates, dealing with outliers
