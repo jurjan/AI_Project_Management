@@ -1,6 +1,6 @@
 # Privacy-Preserving AI: Privacy-preserving machine learning techniques. Federated learning and differential privacy
 
-Medžiaga paremta remiantis:
+Medžiaga parengta remiantis:
 
 * https://doi.org/10.1016/j.diggeo.2024.100104
 * J. Morris Chang, Di Zhuang, G. Dumindu Samaraweera - Privacy-Preserving Machine Learning
