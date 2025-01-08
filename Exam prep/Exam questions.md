@@ -3,7 +3,7 @@
 Egzamino metu patikrinsiu teorines žinias, raštu. Kiekvienas gausite lapus su 5 klausimais.
 
 * Egzamino trukmė 1-1,5h
-* Klausimų skaičius - 5
+* Klausimų skaičius - 5, kiekvienas gausite skirtingus
 * Rašyti suprantamai
 * Galite rašyti lietuviškai + angliški terminai, jei nesate tikri dėl vertimų
 * Klausimui ~0,5psl.
