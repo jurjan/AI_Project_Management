@@ -24,6 +24,12 @@ Paskaitos skaidrės: https://github.com/jurjan/AI_Project_Management/blob/main/L
 # Problemos apibrėžimas ir taikymo sritis: DI projekto galimybių ir iššūkių nustatymas. Projekto apimties ir apribojimų apibrėžimas. Aiškių ir pasiekiamų projekto tikslų nustatymas
 # Problem definition and scoping: Identifying AI project opportunities and challenges. Defining project scope and constraints. Setting clear and achievable project goals
 
+## Pagalba/skaitymas
+
+* Krunic, V. (2020). Succeeding with AI ([edition unavailable]). Manning Publications. Retrieved from https://www.perlego.com/book/2682824/succeeding-with-ai-how-to-make-ai-work-for-your-business-pdf (Original work published 2020)
+  * Puslapiai 33-45
+  * 4 skyrius
+
 ## Pratybos
 
 Šią paskaitą Jūs pradėjote daryti savo baigiamąjį darbą, susiejant su DI sistemų inžinerijos dalykų. Jūsų užduotis:
