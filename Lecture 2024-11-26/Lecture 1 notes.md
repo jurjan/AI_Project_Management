@@ -29,12 +29,3 @@ Paskaitos skaidrės: https://github.com/jurjan/AI_Project_Management/blob/main/L
 * Krunic, V. (2020). Succeeding with AI ([edition unavailable]). Manning Publications. Retrieved from https://www.perlego.com/book/2682824/succeeding-with-ai-how-to-make-ai-work-for-your-business-pdf (Original work published 2020)
   * Puslapiai 33-45
   * 4 skyrius
-
-## Pratybos
-
-Šią paskaitą Jūs pradėjote daryti savo baigiamąjį darbą, susiejant su DI sistemų inžinerijos dalykų. Jūsų užduotis:
-
-Surasti 10 mokslinių šaltinių, kuriais pagrįstumėte savo darbo aktualumą. Turi matytis kas šiuo metu yra atlikta Jūsų srityje, kokie vis dar egzistuojantys iššūkiai, koks poveikis visuomenei/rinkos sektoriui/mokslui. Turi būti ~0,75-1 lapas tam.
-Vienu aiškiu sakinių apibrėžti darbo tikslą. Jis turi būti konkretus ir pasiekiamas.
-Tikslui pasiekti iškelti 3- 4 uždavinius (savais žodžiais, struktūrizuokite savo darbus)
-
