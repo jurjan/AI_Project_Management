@@ -5,7 +5,7 @@ Paskaitos vaizdo įrašas: https://youtu.be/l6jKjeg-qCs
 
 Paskaitos skaidrės: https://github.com/jurjan/AI_Project_Management/blob/main/Lecture%202024-11-26/Paskaita1.pdf
 
-## Teorinė dalis
+## Trumpas paskaitos aprašas
 
 * Šią paskaitą susipažinote su dėstomu dalyku, vertinimo sistema
 * Praktikos taikomos projektų valdyme, tinka ir DI projektų valdymui. Tik reikia prisiminti, jog tokių projektų valdymas yra sudėtingesnis, nes DI sprendimai yra integruojami į esamas sistemas. Turite apgalvoti iš kur bus gaunami duomenys, kaip jie apdorojami, atnaujinami, modelis apmokomas/vystomas, kaip integruojama į sistemą ir t.t.
@@ -23,6 +23,12 @@ Paskaitos skaidrės: https://github.com/jurjan/AI_Project_Management/blob/main/L
 
 ## Pagalba/skaitymas
 
-* Krunic, V. (2020). Succeeding with AI ([edition unavailable]). Manning Publications. Retrieved from https://www.perlego.com/book/2682824/succeeding-with-ai-how-to-make-ai-work-for-your-business-pdf (Original work published 2020)
+* Krunic, V. (2020). Succeeding with AI . Manning Publications. Retrieved from https://www.perlego.com/book/2682824/succeeding-with-ai-how-to-make-ai-work-for-your-business-pdf (Original work published 2020)
   * Puslapiai 33-45
   * 4 skyrius
+* Project Management Institute. (2017). A guide to the Project Management Body of Knowledge (PMBOK guide) (6th ed.). Project Management Institute.
+  * 3 skyrius
+* Haller, K. (2022). Managing AI in the Enterprise. Succeeding with AI Projects and MLOps to Build Sustainable AI Organizations
+  * Puslapiai 1 - 22
+* Huyen, C. (2022). Designing Machine Learning Systems. O'Reilly Media, Inc.
+  * Skyriai 1 ir 2
