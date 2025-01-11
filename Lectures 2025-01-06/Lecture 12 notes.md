@@ -19,5 +19,5 @@ Medžiaga parengta remiantis:
 * https://dl.acm.org/doi/10.1145/2857705.2857708
 * https://rbcborealis.com/research-blogs/tutorial-12-differential-privacy-i-introduction/
 
-## Trumpas paskaitos aprašas:
+## Trumpas paskaitos aprašas: Įkelsiu 2025-01-11
 
