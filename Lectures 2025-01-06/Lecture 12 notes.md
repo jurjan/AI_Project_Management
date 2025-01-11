@@ -19,5 +19,18 @@ Medžiaga parengta remiantis:
 * https://dl.acm.org/doi/10.1145/2857705.2857708
 * https://rbcborealis.com/research-blogs/tutorial-12-differential-privacy-i-introduction/
 
-## Trumpas paskaitos aprašas: Įkelsiu 2025-01-11
+## Trumpas paskaitos aprašas 
+
+Dalis medžiagos yra skaidrėse, bet nebuvo spėta išdėstyti paskaitos metu, todėl pateikta čia raštu.
+
+Duomenimis pagrįstas dirbtinis intelektas (DI) reiškia dirbtinio intelekto sistemas ir taikymus, kurie stipriai remiasi duomenimis, kad mokytųsi, atliktų prognozes ar vykdytų užduotis. Šis terminas pabrėžia duomenų vaidmenį kaip pagrindą DI modelių mokymui ir tobulinimui. Vietoje to, kad būtų aiškiai užprogramuotos konkrečioms užduotims, šios AI sistemos gauna įžvalgas, modelius ir sprendimus iš didelio kiekio struktūruotų ir nestruktūruotų duomenų.
+
+* Prisitaikymas (Adaptability) - Dirbtinio intelekto (DI) sistemos gali prisitaikyti prie naujų duomenų ir besikeičiančios aplinkos, todėl jos yra lanksčios įvairioms taikymo sritims.
+* Duomenys kaip pagrindinis įvestis (Data as the Core Input) - Duomenimis paremto DI veiksmingumas priklauso nuo naudojamų duomenų kokybės, kiekio ir įvairovės.
+* Iteracinis procesas (Iterative Process) - Apima nuolatinį duomenų rinkimą, valymą, žymėjimą ir jų pateikimą modeliams, siekiant juos tobulinti ir gerinti našumą.
+
+
+ -- PILDOMA --
+
+
 
