@@ -21,9 +21,6 @@ Paskaitos skaidrės: https://github.com/jurjan/AI_Project_Management/blob/main/L
 * Tikslai turi būti konkretūs, pamatuojami, įvykdomi, svarbūs ir apriboti laike (SMART)
 * Value Delivery Framework (VDF) - struktūrizuotas metodas, kurį organizacijos naudoja siekdamos užtikrinti, kad jų produktai, paslaugos ar projektai teiktų išmatuojamą vertę, atitinkančią verslo tikslus. Ji apima procesus, principus ir gerąsias praktikas, skirtas optimizuoti rezultatus ir padidinti klientų pasitenkinimą.
 
-# Problemos apibrėžimas ir taikymo sritis: DI projekto galimybių ir iššūkių nustatymas. Projekto apimties ir apribojimų apibrėžimas. Aiškių ir pasiekiamų projekto tikslų nustatymas
-# Problem definition and scoping: Identifying AI project opportunities and challenges. Defining project scope and constraints. Setting clear and achievable project goals
-
 ## Pagalba/skaitymas
 
 * Krunic, V. (2020). Succeeding with AI ([edition unavailable]). Manning Publications. Retrieved from https://www.perlego.com/book/2682824/succeeding-with-ai-how-to-make-ai-work-for-your-business-pdf (Original work published 2020)
