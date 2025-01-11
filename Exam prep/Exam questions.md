@@ -15,3 +15,5 @@ Egzamino metu patikrinsiu teorines žinias, raštu. Kiekvienas gausite lapus su 
 3. DI projekto gyvavimo ciklas, koks jis yra, kas vyksta kiekvienoje fazėje. ML projekto gyvavimo ciklas.
 4. DI projekto valdymo metodologijos: pasirinktinai ir išsamiai 3 mokėti.
 5. DEVOps/MLOps DI projektuose.
+6. DI Projekto gyvavimo ciklas (Kas tai, kam reikia, kur naudojama, kokios fazės, kas tose fazėse)
+7. Projektų valdymo metodikos. Privalumai ir trūkumai, kada kurią taikyti.
