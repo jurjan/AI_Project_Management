@@ -7,6 +7,19 @@ Paskaitos skaidrės: https://github.com/jurjan/AI_Project_Management/blob/main/L
 
 Paskaitos aprašas:
 
+Kas lemia ML projektų sudėtingumą ir iššūkius? Kaip ir programinės įrangos projektų atveju, ML projektai turi suprasti ir atsižvelgti į darbo tam tikroje srityje iššūkius, nesvarbu, ar tai būtų dviračių pardavimas, onkologija, ar epidemiologija. Tačiau, be šių specifinių srities iššūkių, ML projektai yra sudėtingi, nes jie apima sudėtingų duomenų išteklių tvarkymą ir analizę, sudėtingus modelius bei kodą, kuris juos koordinuoja.
+* ML sistemos priklauso nuo duomenų, ypač nuo jų struktūros ir kokybės, kuri naudojama modeliams, įtraukiamiems į galutinę sistemą, kurti. Modernūs duomenų ištekliai yra didžiuliai ir labai sudėtingi. Komandos, kurios siekia sėkmingai įgyvendinti ML projektus, turi taikyti praktikas ir procesus, leidžiančius suprasti ir tvarkyti sudėtingus, triukšmingus, didelės apimties bei asmeniniais ar konfidencialiais duomenimis užpildytus išteklius. Duomenys turi būti suprasti ir valdomi tiek sisteminiu, tiek statistiniu ar vertės lygmeniu. Duomenis reikia inžineriškai apdoroti ir suprasti jų prasmę.
+* ML projektai kuria ir naudoja modelius. Sukurtų modelių savybės turi būti matuojamos ir komandos turi jas suprasti, kad šis supratimas galėtų padėti projektuoti sistemą, į kurią modeliai bus integruoti. Mes ne tik turime kurti modelius, bet ir juos vertinti (techniniu ir verslo kontekstu) bei valdyti jų gyvavimo ciklą.
+* ML sistemos turi būti kuriamos atsižvelgiant į mokslo, suinteresuotųjų šalių ir visuomenės reikalavimus (Wixom, 2020). Verslo ir plačios etinės aplinkybės turi būti integruotos į ML sistemos kūrimo procesą.
+
+Tipinis DI veiksmų planas apima:
+* Tyrimai ir analizė: Suprasti esamus sprendimus ir iššūkius.
+* Duomenų strategija: Suplanuoti duomenų rinkimą, saugojimą ir apdorojimą.
+* Modelio strategija: Pasirinkti algoritmus, platformas ir mokymo metodus.
+* Integracija ir diegimas: Suplanuoti, kaip modelis sąveikaus su vartotojais ar sistemomis.
+* Priežiūra ir atnaujinimai: Įtraukti atsiliepimus ir iteratyvų tobulinimą.
+
+
 Šablonai, pagelbėsiantys planuojant resursus ir vertinant rizikas:
 
 * https://www.smartsheet.com/resource-planning-templates
