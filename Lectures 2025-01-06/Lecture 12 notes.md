@@ -93,6 +93,32 @@ Naudojant išvesties trikdymą (output perturbation), pritaikomas neprivatus mok
 
 Tikslinės funkcijos trikdymas (objective perturbation) apima triukšmo pridėjimą prie tikslinės funkcijos tokiuose mokymosi algoritmuose kaip empirinės rizikos minimizavimas (empirical risk minimization). Pagrindinė empirinės rizikos minimizavimo idėja yra ta, kad negalime tiksliai žinoti, kaip gerai algoritmas veiks su realiais duomenimis, nes nežinome tikrojo duomenų skirstinio, su kuriuo algoritmas sąveikaus. Tačiau galime įvertinti jo našumą žinomame mokymo duomenų rinkinyje, o šį įvertinimą vadiname empirine rizika. Todėl tikslinės funkcijos trikdymo metu gali būti sukurtas vektorinės mechanizmas, leidžiantis pridėti triukšmą prie tikslinės funkcijos, užtikrinant diferencinį privatumą ir išlaikant algoritmo efektyvumą. https://jmlr.org/papers/volume12/chaudhuri11a/chaudhuri11a.pdf
 
+* Differentially private naive Bayes classification (https://arxiv.org/abs/1905.01039)
+* Differentially private logistic regression (https://systems.cs.columbia.edu/private-systems-class/papers/Chaudhuri2009Privacy.pdf)
+* Differentially private linear regression (https://arxiv.org/abs/2007.05157)
+* Differentially private naive Bayes classification (https://arxiv.org/abs/1905.01039)
+* Differentially private logistic regression (https://systems.cs.columbia.edu/private-systems-class/papers/Chaudhuri2009Privacy.pdf)
+* Differentially private linear regression (https://arxiv.org/abs/2007.05157)
+
+Diferencinis privatumas (DP) yra plačiai pripažintas standartas individualaus privatumo kiekybiniam įvertinimui. Pagal pirminį DP apibrėžimą egzistuoja patikimas duomenų tvarkytojas, kuris renka duomenis iš asmenų ir taiko technikas, kad gautų diferencinio privatumo užtikrinančią statistiką. Tada šis duomenų tvarkytojas publikuoja privatumą saugančią statistiką apie populiaciją. Lokalaus diferencinio privatumo (LDP) atveju asmenys siunčia savo duomenis duomenų agregatoriui po to, kai duomenys yra privatizuojami trikdymo metodu. Šios technikos suteikia asmenims tikėtiną neigiamumą (plausible deniability). Duomenų agregatorius surenka visus trikdytus duomenis ir atlieka statistikos įvertinimą
+
+* Direct encoding
+* Histogram encoding
+* Unary encoding
+* Examples with code: https://programming-dp.com/ch13.html
+* Survey (paper): https://onlinelibrary.wiley.com/doi/10.1155/2020/8829523
+
+ML modelio našumas daugiausia priklauso nuo sukauptų mokymo duomenų kiekio ir kokybės. Kai neturima pakankamai duomenų mokymui, dažnai vyksta duomenų dalijimasis tarp organizacijų, turinčių panašius mokslinių tyrimų interesus. Tai leidžia išplėsti tyrimų mastą, tačiau privatumo problema išlieka ta pati. Duomenys paprastai apima jautrią asmeninę informaciją, kuri gali sukelti privatumo pažeidimus asmenims. Todėl būtina įdiegti privatumo apsaugos mechanizmus duomenų dalijimosi metu. Viena iš geriausių alternatyvų – generuoti privatumą saugančius sintetinius duomenis, kurie yra lankstus ir praktiškas sprendimas dalijantis jautriais duomenimis tarp kelių suinteresuotųjų šalių.
+
+Sintetiniai duomenys yra dirbtinai suformuoti duomenys, kurie paprastai generuojami naudojant dirbtinius algoritmus, o ne renkami realaus pasaulio tiesioginio matavimo metodais. Tačiau jie vis tiek išlaiko tam tikras esmines faktines duomenų savybes, tokias kaip statistinės charakteristikos, funkcionalumas ar išvados.
+
+Prieš išgaunant bet kokias statistines charakteristikas iš pradinio duomenų rinkinio, pirmasis žingsnis yra išankstinis apdorojimas, apimantis išskirčių pašalinimą ir požymių reikšmių normalizavimą. Išskirtys – tai duomenų taškai, kurie yra toli nuo kitų stebėjimų. Jos gali atsirasti dėl eksperimento rezultatų kintamumo ar matavimo klaidų, kurios kartais pateikia neteisingą informaciją duomenų naudotojams.
+Daugeliu atvejų išskirtys gali suklaidinti sintetinį duomenų generatorių, priversdamos jį generuoti daugiau išskirčių, o tai daro ML modelį netikslų. Vienas iš įprastų išskirčių nustatymo būdų yra tankio metodas: stebėti, ar tikimybė tam tikroje srityje rasti tam tikrus taškus yra daug mažesnė už tikėtiną vertę toje srityje.
+Kitas žingsnis – požymių normalizavimas. Kiekvienas duomenų rinkinys turi skirtingą požymių skaičių, o kiekvieno požymio reikšmių diapazonas gali būti skirtingas. Normalizavimas užtikrina, kad visi požymiai turėtų panašų skalės diapazoną, taip pagerindamas ML modelio stabilumą ir našumą. Normalizavus duomenų rinkinį, galima sukurti skirstinio ištraukimo modelį, kuris išlaiko originalių duomenų statistines charakteristikas.
+Galiausiai atliekamas privatumo testas, siekiant užtikrinti, kad sugeneruoti sintetiniai duomenys atitinka tam tikras iš anksto nustatytas privatumo garantijas (pvz., k-anonimiškumą, diferencinį privatumą (DP) ir kt.). Jei sugeneruoti sintetiniai duomenys negali užtikrinti numatytų privatumo garantijų, privatumo testas bus nesėkmingas. Tokiu atveju sintetiniai duomenys generuojami pakartotinai, kol privatumo testas bus išlaikytas.
+Dabar, kai aptarėme pagrindines sąvokas, taikymo scenarijus ir bendrą sintetinės duomenų generavimo procesą, pažvelkime į populiariausias sintetinės generacijos technikas, pagrįstas duomenų anonimizavimu ir diferenciniu privatumu. Pradėsime nuo duomenų anonimizavimo metodų. (Skaidrė 17)
+
+
 
 
 
