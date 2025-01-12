@@ -1,5 +1,9 @@
 # Privacy-Preserving AI: Privacy-preserving machine learning techniques. Federated learning and differential privacy
 
+Paskaitos įrašas: https://youtu.be/Yyw7whyFz20
+
+Paskaitos skaidrės:https://github.com/jurjan/AI_Project_Management/blob/main/Lectures%202025-01-06/Lecture%2012.pdf
+
 Medžiaga parengta remiantis:
 
 * https://doi.org/10.1016/j.diggeo.2024.100104
