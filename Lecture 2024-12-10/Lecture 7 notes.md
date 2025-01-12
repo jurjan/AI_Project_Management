@@ -1,5 +1,7 @@
 # Structuring and delivering AI Projects
 
+Paskaitos įrašas: https://youtu.be/UqRMlfKEXko
+
 Parengta remiantis:
 * Haller, K. (2022). Structuring and Delivering AI Projects. In: Managing AI in the Enterprise. Apress, Berkeley, CA. https://doi.org/10.1007/978-1-4842-7824-6_2
 * 
