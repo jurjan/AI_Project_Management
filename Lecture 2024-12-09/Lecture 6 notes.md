@@ -1,6 +1,6 @@
 # Atsakomybė priimant DI sprendimus. Paaiškinamas AI ir aiškinamumas. Teisinis AI reguliavimas
 
-
+Paskaitos įrašas: https://youtu.be/9LnPEsN1vb4
 
 * https://digital-strategy.ec.europa.eu/lt/policies/expert-group-ai
 * https://gdpr-info.eu/art-5-gdpr/
