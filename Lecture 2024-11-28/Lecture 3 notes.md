@@ -55,3 +55,6 @@ ERM (https://www.investopedia.com/terms/e/enterprise-risk-management.asp)
 Literatūra:
 1. The Standard for Risk Management in Portfolios, Programs, and Projects (PMI)
 2. Klaus Haller. Managing AI in the Enterprise. Succeeding with AI Projects and MLOps to Build Sustainable AI Organizations
+3. https://towardsdatascience.com/machine-learning-a-practical-guide-to-managing-risk-52624cf03f3a
+4. https://www.researchgate.net/publication/380044792_Risk-Management-in-Agile-Al_ML-Projects_Risk-Management-in-Agile-Al_ML-Projects
+5. https://www.researchgate.net/publication/380044792_Risk-Management-in-Agile-Al_ML-Projects_Risk-Management-in-Agile-Al_ML-Projects
