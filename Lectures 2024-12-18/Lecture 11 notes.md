@@ -4,4 +4,4 @@ Paskaitos skaidrės: https://github.com/jurjan/AI_Project_Management/blob/main/L
 
 Toliau kalbėjau apie priešiškas atakas
 
-Įkelsiu nuorodas + tekstą 2025-01-12
+Įkelsiu nuorodas + tekstą 2025-01-13
