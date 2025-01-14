@@ -39,5 +39,5 @@ Egzamino metu patikrinsiu teorines žinias, raštu. Kiekvienas gausite lapus su 
 27. Atakos ir grėsmių vektoriai.
 28. Kibernetinių atakų tipai.
 29. Saugumo užtikrinimas ir didinimas DI sistemose ir projektuose.
-30. 
+30. PILDOMA
 
