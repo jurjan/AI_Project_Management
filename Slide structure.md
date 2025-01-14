@@ -36,7 +36,7 @@ Is kur, kiek duomenu, ar reikia tvarkyti, kaip tvarkyti ir pan, kokios augmentac
 
 Pradinis Jusu nagrinejamas verslo procesas/ Modeliai, kuriuos planuojate imti ir naudoti savo tyrime
 
-##Atlikti ir busimi darbai
+## Atlikti ir busimi darbai
 
 bullet points isdestyti
 
