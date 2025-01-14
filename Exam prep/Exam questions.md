@@ -39,5 +39,12 @@ Egzamino metu patikrinsiu teorines žinias, raštu. Kiekvienas gausite lapus su 
 27. Atakos ir grėsmių vektoriai.
 28. Kibernetinių atakų tipai.
 29. Saugumo užtikrinimas ir didinimas DI sistemose ir projektuose.
-30. PILDOMA
+30. Duomenų anonimizavimo svarba ir technikos
+31. Adversarial Attacks - tipai (apie kiekvieną trumpai)
+32. Nuodijimo atakos, jų tipai, kokia nuodijimo atakų paskirtis
+33. Apsisaugojimas nuo nuodijimo atakų
+34. Trojos arkliai ir modelio perprogramavimas
+35. Supply chain attacks, kas tai, kaip apsisaugoti.
+36. Evasion attacks: paskirtis, tipai.
+37. Apsaugo nuo evasion attacks (technikos, būdai, kiekvieno privalumai/trūkumai)
 
