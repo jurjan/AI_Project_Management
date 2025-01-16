@@ -46,5 +46,18 @@ Egzamino metu patikrinsiu teorines žinias, raštu. Kiekvienas gausite lapus su 
 34. Trojos arkliai ir modelio perprogramavimas
 35. Supply chain attacks, kas tai, kaip apsisaugoti.
 36. Evasion attacks: paskirtis, tipai.
-37. Apsaugo nuo evasion attacks (technikos, būdai, kiekvieno privalumai/trūkumai)
+37. Apsaugos nuo evasion attacks (technikos, būdai, kiekvieno privalumai/trūkumai)
+38. Kas yra Perturbations, kaip atliekamos, koks jų poveikis.
+39. Kokios yra privatumo atakos, koks tokių atakų tikslas.
+40. Extraction attacks, kaip vykdomos, kokie modeliai, kaip atpažinti ir apsiginti.
+41. Duomenų vagystė (Stealing data), kokios technikos, kaip veikia.
+42. Inference attacks, tipai, kaip atliaka, kaip apsisaugoti.
+43. Privacy preserving AI, kas tai, kaip užtikrinti, kad atitinka saugumo reikalavimus.
+44. GAN panaudojimas kibernetinėse atakose, technikos, kaip apsiginti.
+45. Atakos prieš LLMs, kokie tipai. kokios pagrindinės technikos ir problemos apsiginant.
+46. Duonenų šifravimas: tipai ir technikos.
+47. Saugus duomenų perdavimas, technikos.
+48. Kaip užtikrinti saugomų duomenų saugumą.
+49. Homomorfinis šifravimas ir SMPC.
+50. 
 
