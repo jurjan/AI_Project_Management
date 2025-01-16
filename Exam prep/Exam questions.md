@@ -59,5 +59,13 @@ Egzamino metu patikrinsiu teorines žinias, raštu. Kiekvienas gausite lapus su 
 47. Saugus duomenų perdavimas, technikos.
 48. Kaip užtikrinti saugomų duomenų saugumą.
 49. Homomorfinis šifravimas ir SMPC.
-50. 
+50. Kas yra Privacy Preserving AI? Kaip užtikrinti privatumą?
+51. Differential privacy, kaip veikia, kaip taikyti AI.
+52. Differentially private supervised learning algorithms (Pagal nuorodas)
+53. Differentially private unsupervised learning algorithms (Pagal nuorodas)
+54. Local Differential privacy, kaip veikia, kaip taikyti AI.
+55. Kas yra federated learning, kaip veikia, kokios atakos ir kaip apsisaugoti.
+56. Diegimo strategijos.
+
+
 
